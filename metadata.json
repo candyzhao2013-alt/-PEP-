@@ -1,0 +1,6 @@
+{
+  "name": "PEP六年级英语点读跟读",
+  "description": "专为五六年级学生设计的人教版PEP英语六年级上册课文点读、跟读评分及宠物养成激励系统。",
+  "requestFramePermissions": ["microphone"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
